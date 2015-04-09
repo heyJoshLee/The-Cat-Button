@@ -1,0 +1,35 @@
+/* CSS */
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+* {
+    font-family: 'lato';
+}
+
+#imgDiv {
+    display: ;
+}
+
+body {
+    background-color: snow;
+}
+button {
+    background-color: RGB(255, 106, 137);
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+
+header {
+    text-align: center;
+}
+
+
+#pageWrapper {
+    text-align: center;
+}
